@@ -37,7 +37,7 @@ Welcome to **AI Stock Trader**, a powerful tool designed to fetch real-time stoc
 
 - Python 3.7 or higher
 - `pip` package manager
-- TradingView account (optional but recommended for full data access)
+- TradingView account (optional)
 
 ### **Clone the Repository**
 
