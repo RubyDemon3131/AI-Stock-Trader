@@ -24,7 +24,7 @@ def main(symbol, exchange, title, filename):
     # Start data fetching for the given symbol and exchange
     start_data_fetching(chart, ohlcv_file, signal_system_file, symbol, exchange, strategy_config_file)
 
-    chart.show(block=True)
+    chart.show(block=False)
 
 if __name__ == '__main__':
     # Extract command-line arguments
