@@ -131,3 +131,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or inquiries, please contact:
 
 - **Christopher Bulat**: [rubydemon3131@gmail.com](mailto:ianharding@example.com)
+Dummy change number 1
+<<<<<<< HEAD
+Dummy change number 1
+=======
+>>>>>>> 492f6b1bb6bb0c9ff7d8e257ac6e3c150aeb4df2
+Dummy change number 1
