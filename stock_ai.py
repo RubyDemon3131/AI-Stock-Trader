@@ -22,7 +22,7 @@ def main(symbol, exchange, title, filename):
     update_thread.start()
 
     # Start data fetching for the given symbol and exchange
-    start_data_fetching(chart, signal_system_file, symbol, exchange, strategy_config_file)
+    start_data_fetching(chart, ohlcv_file, signal_system_file, symbol, exchange, strategy_config_file)
 
     chart.show(block=True)
 
