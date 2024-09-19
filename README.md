@@ -17,7 +17,7 @@
 
 ## **Introduction**
 
-Welcome to **AI Stock Trader**, a powerful tool designed to fetch real-time stock market data, calculate key technical indicators using AI-powered strategies, and generate trading signals. This project enables continuous data analysis and backtesting, making it an essential tool for modern traders.
+Welcome to **AI Stock Trader.**, a powerful tool designed to fetch real-time stock market data, calculate key technical indicators using AI-powered strategies, and generate trading signals. This project enables continuous data analysis and backtesting, making it an essential tool for modern traders.
 
 ---
 
